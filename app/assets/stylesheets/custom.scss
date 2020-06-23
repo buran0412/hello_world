@@ -16,6 +16,14 @@ html {
     background-color: white;
   }
 
+  .alert {
+    margin-bottom: 0px;
+    position: fixed;
+    width: 100%;
+    z-index: 10000;
+  }
+
+
   #logo {
     float: left;
     margin-right: 10px;
